@@ -1,0 +1,26 @@
+.Header {
+    height: 10vh;
+    width: 100vw;
+    background-color: #050606f1;
+    position: fixed;
+    top: 0px;
+    z-index: 5;
+    display: flex;
+	justify-content: space-between;
+    align-items: center;
+   
+}
+
+img {
+    margin-left: 25px;
+}
+
+.flights {
+    height: 50px;
+    margin-right: 35px;
+    font-size: 35px;
+    background-color: transparent;
+    font-family: 'Playfair Display SC', serif;
+    border: 0;
+    color: whitesmoke;
+}

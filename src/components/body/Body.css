@@ -1,0 +1,11 @@
+.back {
+  height: 200vh;
+  background-color: rgb(27, 29, 29);
+}
+
+.country-styling {
+  margin-top: 10vh;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}

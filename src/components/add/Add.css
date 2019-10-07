@@ -1,0 +1,46 @@
+.add-country {
+    height: 10vh;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: flex-end;
+	align-items: flex-end;
+	align-content: stretch;
+
+}
+
+.small-add-country {
+    height: 9vh;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+    align-items: flex-end;
+    margin-right: 33px; 
+    border: 2px solid #666666;
+}
+
+
+.inputs{
+    height: 25px;
+    margin-bottom: 10px;
+    border: solid #666666 1.4px;
+    background-color: #181D1D;
+    color: whitesmoke;
+}
+
+.button{
+    font-size: 22px;
+    border: 0;
+    text-decoration: underline;
+    margin-bottom: 10px;
+    background-color: #181D1D;
+    color: whitesmoke;
+}
+
+.button:hover{
+    background-color: rgb(165, 165, 165);
+    color: whitesmoke;
+    border-radius: 5px;
+
+}
+
